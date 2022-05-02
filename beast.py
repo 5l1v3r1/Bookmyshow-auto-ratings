@@ -11,7 +11,7 @@ input=driver.find_element_by_xpath('//*[@id="super-container"]/div[3]/div/div/di
 input.click()
 
 input=driver.find_element_by_xpath('//*[@id="emailId"]')
-input.send_keys('kfirecords123@gmail.com')
+input.send_keys('putyrid123@gmail.com')
 
 input=driver.find_element_by_xpath('//*[@id="super-container"]/div[3]/div/div/div/div[2]/form/div[2]/button')
 input.click()
