@@ -16,16 +16,6 @@ input.send_keys('putyrid123@gmail.com')
 input=driver.find_element_by_xpath('//*[@id="super-container"]/div[3]/div/div/div/div[2]/form/div[2]/button')
 input.click()
 
-time.sleep(5)
+#if i find dragging button ratings  i will update it plz select rate button and rate the movie
 
-input=driver.find_element_by_xpath('//*[@id="modal-root"]/div/div/div/div[2]/ul/li[5]/div/span')
-input.click()
 
-input=driver.find_element_by_xpath('//*[@id="super-container"]/div[2]/section[1]/div/div/div[2]/section[2]/div[1]/button/span')
-input.click()
-
-input=driver.find_element_by_xpath('//*[@id="super-container"]/div[2]/div/div[2]/div/div/div/div[2]/div/div[1]/div[2]/div/div[1]/div[3]')
-input.click()
-
-input=driver.find_element_by_xpath('//*[@id="super-container"]/div[2]/div/div[2]/div/div/div/div[3]/div/button/span')
-input.click()
