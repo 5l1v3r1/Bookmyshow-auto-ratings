@@ -2,7 +2,7 @@ from selenium import webdriver
 import time
 
 driver = webdriver.Chrome()
-driver.get("https://in.bookmyshow.com/login/?referer=/bengaluru/movies/beast/ET00311733")
+driver.get("https://in.bookmyshow.com/login/?referer=/bengaluru/movies/beast/ET00311733") #Which Movie You Want To Rate Now Paste That Url
 
 input=driver.find_element_by_xpath('//*[@id="wzrk-confirm"]')
 input.click()
