@@ -11,11 +11,13 @@ input=driver.find_element_by_xpath('//*[@id="super-container"]/div[3]/div/div/di
 input.click()
 
 input=driver.find_element_by_xpath('//*[@id="emailId"]')
-input.send_keys('putyrid123@gmail.com')
+input.send_keys('putyrid123@gmail.com') #Replace With Your Mail OTP Will Not Be Auto Fill You Must Enter It👍
 
 input=driver.find_element_by_xpath('//*[@id="super-container"]/div[3]/div/div/div/div[2]/form/div[2]/button')
 input.click()
 
-#if i find dragging button ratings  i will update it plz select rate button and rate the movie
+#It Ask Rate Now Click On That & Rate The Movie And Click Submit (If I Find Drag Automatically I Will Update It👍)
+
+
 
 
