@@ -31,3 +31,7 @@ input=driver.find_element_by_xpath('//*[@id="super-container"]/div[2]/section[1]
 time.sleep(7)
 
 input=driver.find_element_by_xpath('//*[@id="super-container"]/div[2]/div/div[2]/div/div/div/div[3]/div/button').click()
+
+time.sleep(5)
+
+driver.close()
