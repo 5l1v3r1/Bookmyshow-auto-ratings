@@ -5,7 +5,7 @@ from selenium.webdriver.chrome.options import Options
 import time
 
 driver = webdriver.Chrome()
-driver.get("https://in.bookmyshow.com/bengaluru/movies/777-charlie/ET00077150")  #change which moview you want to auto ratings
+driver.get("https://in.bookmyshow.com/bengaluru/movies/777-charlie/ET00077150")  #change which movie you want to auto ratings
 
 time.sleep(5)
 
@@ -35,7 +35,7 @@ time.sleep(8)
 slider = driver.find_element_by_css_selector("#range")
 
 move = ActionChains(driver)
-move.click_and_hold(slider).move_by_offset(10,90).release().perform() #change to your required ratings
+move.click_and_hold(slider).move_by_offset(100,100).release().perform() #change to your required ratings i putted 90% rating x and y values
 
 time.sleep(5)
 
