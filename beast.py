@@ -1,7 +1,9 @@
 from selenium import webdriver
 from selenium.webdriver.support.ui import Select
+from selenium.webdriver.remote.webelement import WebElement
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.action_chains import ActionChains
 import time
 
 driver = webdriver.Chrome()
