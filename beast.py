@@ -21,6 +21,8 @@ time.sleep(3)
 
 driver.find_element_by_css_selector('#emailId').send_keys("yashuvirat@gmail.com") #change email to your required or else use temp mail also 
 
+#otp will not enter manually you must enter it 
+
 time.sleep(3)
 
 driver.find_element_by_xpath('//*[@id="super-container"]/div[3]/div/div/div/div[2]/form/div[2]/button').click()
