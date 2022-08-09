@@ -3,11 +3,11 @@ presenting the first bms auto rating using python github
 # Bookmyshow-auto-ratings
 Bookmyshow Auto Rating Using Python
 
-Replace Which Movie You Want To Rate Now In 10th Line with url
+Replace Which Movie You Want To Rate Now In 12th Line with url
 
-replace your email id with 22th line 
+replace your email id with 24th line 
 
-and rating values in 42th line which rating you want like these
+and rating values in 44th line which rating you want like these
 0,10
 
 0,20
