@@ -33,3 +33,22 @@ Download The Latest Version Of Chrome Driver https://chromedriver.chromium.org/ 
 👉bms auto ratings
 https://youtu.be/TkQydrpHgZo
 
+👉Note:-
+
+👉if your selenium version is in latest version then 
+the code never run 
+
+👉open cmd and enter pip uninstall selenium
+
+And enter 
+
+pip install selenium==4.2.1
+or
+pip install selenium==4.2.0
+
+and hit enter 
+
+and 
+
+python -c "import selenium; print(selenium.__version__)"
+<to check the current version of selenium>
