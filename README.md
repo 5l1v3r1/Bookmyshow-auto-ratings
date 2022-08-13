@@ -1,4 +1,4 @@
-presenting the first bms auto rating using python github
+👉presenting the first bms auto rating using python In  github
 
 # Bookmyshow-auto-ratings
 Bookmyshow Auto Rating Using Python
