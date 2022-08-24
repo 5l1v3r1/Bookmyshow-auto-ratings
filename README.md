@@ -28,7 +28,7 @@ and rating values in 44th line which rating you want like these
 
 100,100-for 90% ratings
 
-Download The Latest Version Of Chrome Driver https://chromedriver.chromium.org/ & Extract The File And Place To These Folder open cmd and enter beast or beast.py or you can rename the file and run
+Download The Latest Version Of Chrome Driver https://chromedriver.chromium.org/ & Extract The File And Place To These Folder open cmd and enter beast.py or you can rename the file and run
 
 👉bms auto ratings
 https://youtu.be/TkQydrpHgZo
