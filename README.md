@@ -52,3 +52,7 @@ and
 
 python -c "import selenium; print(selenium.__version__)"
 <to check the current version of selenium>
+
+I dont Find Any Bms Auto Rating In Google So Try To Made It And Get success 
+
+FOR REFERENCE AND EDUCATION PURPOSES ONLY.
